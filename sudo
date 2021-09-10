@@ -1,0 +1,3 @@
+SKEL_DB_DSN=postgres://skel:@localhost/skel tee -a /etc/environment
+SKEL_DB_DSN=postgres://skel:pa55word1234@localhost/skel tee -a /etc/environment
+SKEL_DB_DSN=postgres://skel:pa55word1234@localhost/skel tee /etc/environment

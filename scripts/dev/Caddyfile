@@ -1,0 +1,5 @@
+:3001 {
+    tls /workspace/gitpod-try/certs/fakedomain.dev+4.pem /workspace/gitpod-try/certs/fakedomain.dev+4-key.pem
+    # reverse_proxy https://localhost:3000
+    respond "Hey you!"
+}
